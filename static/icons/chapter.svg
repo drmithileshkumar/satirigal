@@ -1,0 +1,273 @@
+<svg width="100%" height="100%" viewBox="-100 -100.17578125 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                        <radialGradient id='RadialGradient-VectorialApp24R51-14' cx="60.482%" cy="29.529%" fx="61.077%" fy="22.982%" r="56.315%" fr="0%" ><stop offset="0%" stop-color="rgba(0, 228, 255, 1)"/><stop offset="100%" stop-color="rgba(0, 40, 0, 1)"/></radialGradient>
+                    <filter 
+                        id='Shadow-VectorialApp24R51-15'
+                        x='-10%'
+                        y='0%'
+                        width='290.644%'
+                        height='382.906%'
+                    >
+                        <feDropShadow 
+                            dx='-2'
+                            dy='2'
+                            stdDeviation='2'
+                            flood-color='rgba(255, 255, 255, 0.5)'
+                            flood-opacity='1'
+                        />
+                    </filter>
+                
+                    <filter 
+                        id='SpecularLighting-VectorialApp24R51-16'
+                        x='-100%'
+                        y='-100%'
+                        width='210%'
+                        height='210%'
+                    >
+                        <feSpecularLighting
+                            result='spotlight'
+                            specularExponent='100'
+                            specularConstant='1'
+                            lighting-color='rgba(0, 112, 0, 1)'
+                            surfaceScale='1'
+                        >
+                            <fePointLight x='33' y='-60' z='30'/>
+                        </feSpecularLighting> 
+                        <feComposite
+                            in='SourceGraphic'
+                            in2='spotlight'
+                            operator='arithmetic'
+                            k1='0'
+                            k2='1'
+                            k3='1'
+                            k4='0' />
+                    </filter>
+                </defs><g>
+                        <g  
+                            class='draggable'
+                            id='Layer-VectorialApp24R51-0'
+                            fill='none'
+                            stroke='none'
+                            stroke-width='0'
+                            stroke-dasharray='none'
+                            opacity='1'
+                            mask='none'
+                            filter='none'
+                            transform='matrix(1 0 0 1 0 0)'
+                        >
+                        
+                        <circle  
+                            id='Circle-VectorialApp24R51-2'
+                            cx='0'
+                            cy='0'
+                            r='100'
+                            fill='url(#RadialGradient-VectorialApp24R51-14)'
+                            stroke='rgba(0, 175, 255, 0.2)'
+                            stroke-width='2'
+                            stroke-dasharray='none'
+                            opacity='1'
+                            filter=' url(#SpecularLighting-VectorialApp24R51-16)'
+                            mask='none'
+                            transform='matrix(1 0 0 1 0 0)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-3'
+                            d='M -100,1.1484375 H 100'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(1 -5.551115123125783e-17 5.551115123125783e-17 1 0 -2.220446049250313e-16)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-4'
+                            d='M -98.5,0.1484375 Q -8.5,23.6484375 88,2.1484375'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(5.551115123125783e-17 1 -1 5.551115123125783e-17 37.534549713134766 5.534549713134766)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-5'
+                            d='M -76.5,1.6484375 Q -11,26.6484375 63.5,3.6484375'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(1 0 0 1 7 -73)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-7'
+                            d='M -98.5,0.1484375 Q -8.5,23.6484375 88,2.1484375'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(1 0 0 -1 5 37.5690975189209)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-8'
+                            d='M -78,3.6484375 Q -13,27.1484375 63,2.1484375'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(1 0 0 -1 7 72.56574249267578)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-9'
+                            d='M -100,1.1484375 H 100'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(1.1102230246251565e-16 1 -1 1.1102230246251565e-16 1.6484375000000004 -0.3515625)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-10'
+                            d='M -77,3.6484375 Q -11,29.6484375 64,4.6484375'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(5.551115123125783e-17 1 -1 5.551115123125783e-17 73.28287124633789 6.782871246337891)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-11'
+                            d='M -77,2.1484375 Q -11,27.1484375 64,3.6484375'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(-5.551115123125783e-17 -1 1 -5.551115123125783e-17 -72.78287124633789 -7.217128753662108)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-12'
+                            d='M -98.5,0.1484375 Q -8.5,23.6484375 88,2.1484375'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(1 0 0 1 6 -39)'
+                        />
+                        
+                        <path  
+                            id='Path-VectorialApp24R51-13'
+                            d='M -98.5,0.1484375 Q -8.5,23.6484375 88,2.1484375'
+                            fill='rgba(0, 0, 0, 0)'
+                            fill-rule='evenodd'
+                            stroke='rgba(255, 255, 255, 0.1)'
+                            stroke-width='5'
+                            stroke-dasharray='none'
+                            stroke-linecap='butt'
+                            stroke-linejoin='miter'
+                            stroke-miterlimit='4'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            marker-start='none'
+                            marker-mid='none'
+                            marker-end='none'
+                            transform='matrix(5.551115123125783e-17 1 1 -5.551115123125783e-17 -37.53454780578613 5.534549713134766)'
+                        />
+                        </g></g></svg>

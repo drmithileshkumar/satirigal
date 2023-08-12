@@ -1,0 +1,83 @@
+<svg width="100%" height="100%" viewBox="-71.5 -85.5 50 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs></defs><g>
+                        <g  
+                            class='draggable'
+                            id='Layer-VectorialApp28R64-0'
+                            fill='none'
+                            stroke='none'
+                            stroke-width='0'
+                            stroke-dasharray='none'
+                            opacity='1'
+                            mask='undefined'
+                            filter='undefined'
+                            transform='matrix(1 0 0 1 0 0)'
+                        >
+                        
+                        <rect  
+                            id='Rect-VectorialApp28R64-2'
+                            x='0'
+                            y='0'
+                            width='50'
+                            height='50'
+                            rx='5'
+                            ry='5'
+                            fill='rgba(255, 0, 0, 1)'
+                            stroke='rgba(0, 0, 0, 1)'
+                            stroke-width='0'
+                            stroke-dasharray='none'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            transform='matrix(1 0 0 1 -71.5 -85.5)'
+                        />
+                        
+                        <text  
+                            id='Text-VectorialApp28R64-3'
+                            x='0'
+                            y='0'
+                            font-size='15px'
+                            font-weight='600'
+                            fill='rgba(255, 255, 255, 1)'
+                            stroke='undefined'
+                            stroke-width='undefined'
+                            stroke-dasharray='undefined'
+                            opacity='1'
+                            filter='none'
+                            mask='undefined'
+                            transform='matrix(1 0 0 1 -59.0859375 -67)'
+                        >You
+                            </text>
+                        <rect  
+                            id='Rect-VectorialApp28R64-4'
+                            x='0'
+                            y='0'
+                            width='40'
+                            height='20'
+                            rx='3'
+                            ry='3'
+                            fill='rgba(255, 255, 255, 1)'
+                            stroke='rgba(0, 0, 0, 1)'
+                            stroke-width='0'
+                            stroke-dasharray='none'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            transform='matrix(1 0 0 1 -66.5 -61.5)'
+                        />
+                        
+                        <text  
+                            id='Text-VectorialApp28R64-5'
+                            x='0'
+                            y='0'
+                            font-size='15px'
+                            font-weight='600'
+                            fill='rgba(255, 0, 0, 1)'
+                            stroke='undefined'
+                            stroke-width='undefined'
+                            stroke-dasharray='undefined'
+                            opacity='1'
+                            filter='none'
+                            mask='undefined'
+                            transform='matrix(1 0 0 1 -63.375 -46.5)'
+                        >Tube
+                            </text></g></g></svg>

@@ -1,0 +1,286 @@
+<svg width="100%" height="100%" viewBox="-299 -349.5 600 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <radialGradient id='RadialGradient-VectorialApp26R90-3' cx="50%" cy="50%" fx="50%" fy="50%" r="50%" fr="0%" >
+            <stop offset="0%" stop-color="rgba(0, 207, 255, 1)"/>
+            <stop offset="100%" stop-color="rgba(0, 0, 0, 1)"/>
+        </radialGradient>
+    </defs>
+    <g>
+        <g  
+            class='draggable'
+            id='Layer-VectorialApp26R90-0'
+            fill='none'
+            stroke='none'
+            stroke-width='0'
+            stroke-dasharray='none'
+            opacity='1'
+            mask='none'
+            filter='none'
+            transform='matrix(1 0 0 1 0 0)'
+        >
+                        
+            <rect  
+                id='Rect-VectorialApp26R90-2'
+                x='0'
+                y='0'
+                width='600'
+                height='400'
+                rx='10'
+                ry='10'
+                fill='url(#RadialGradient-VectorialApp26R90-3)'
+                stroke='rgba(0, 0, 0, 1)'
+                stroke-width='1'
+                stroke-dasharray='none'
+                opacity='1'
+                filter='none'
+                mask='none'
+                transform='matrix(1 0 0 1 -299 -349.5)'
+            />
+            
+            <rect  
+                id='Rect-VectorialApp26R90-4'
+                x='0'
+                y='0'
+                width='150'
+                height='10'
+                rx='0'
+                ry='0'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='rgba(0, 0, 0, 1)'
+                stroke-width='1'
+                stroke-dasharray='none'
+                opacity='1'
+                filter='none'
+                mask='none'
+                transform='matrix(1 0 0 1 -275.5 -253.5)'
+            />
+            
+            <rect  
+                id='Rect-VectorialApp26R90-5'
+                x='0'
+                y='0'
+                width='150'
+                height='10'
+                rx='0'
+                ry='0'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='rgba(0, 0, 0, 1)'
+                stroke-width='1'
+                stroke-dasharray='none'
+                opacity='1'
+                filter='none'
+                mask='none'
+                transform='matrix(1 0 0 1 -275.5 -238.33333331346512)'
+            />
+            
+            <rect  
+                id='Rect-VectorialApp26R90-6'
+                x='0'
+                y='0'
+                width='150'
+                height='10'
+                rx='0'
+                ry='0'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='rgba(0, 0, 0, 1)'
+                stroke-width='1'
+                stroke-dasharray='none'
+                opacity='1'
+                filter='none'
+                mask='none'
+                transform='matrix(1 0 0 1 -275.5 -223.16666668653488)'
+            />
+            
+            <rect  
+                id='Rect-VectorialApp26R90-7'
+                x='0'
+                y='0'
+                width='150'
+                height='10'
+                rx='0'
+                ry='0'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='rgba(0, 0, 0, 1)'
+                stroke-width='1'
+                stroke-dasharray='none'
+                opacity='1'
+                filter='none'
+                mask='none'
+                transform='matrix(1 0 0 1 -275.5 -208)'
+            />
+            
+            <circle  
+                id='Circle-VectorialApp26R90-8'
+                cx='0'
+                cy='0'
+                r='20'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='rgba(0, 0, 0, 1)'
+                stroke-width='1'
+                stroke-dasharray='none'
+                opacity='1'
+                filter='none'
+                mask='none'
+                transform='matrix(1 0 0 1 -242.5 -169)'
+            />
+            
+            <circle  
+                id='Circle-VectorialApp26R90-9'
+                cx='0'
+                cy='0'
+                r='20'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='rgba(0, 0, 0, 1)'
+                stroke-width='1'
+                stroke-dasharray='none'
+                opacity='1'
+                filter='none'
+                mask='none'
+                transform='matrix(1 0 0 1 -242.5 -119)'
+            />
+            
+            <circle  
+                id='Circle-VectorialApp26R90-10'
+                cx='0'
+                cy='0'
+                r='20'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='rgba(0, 0, 0, 1)'
+                stroke-width='1'
+                stroke-dasharray='none'
+                opacity='1'
+                filter='none'
+                mask='none'
+                transform='matrix(1 0 0 1 -162.5 -169)'
+            />
+            
+            <circle  
+                id='Circle-VectorialApp26R90-11'
+                cx='0'
+                cy='0'
+                r='20'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='rgba(0, 0, 0, 1)'
+                stroke-width='1'
+                stroke-dasharray='none'
+                opacity='1'
+                filter='none'
+                mask='none'
+                transform='matrix(1 0 0 1 -162.5 -119)'
+            />
+            
+            <text  
+                id='Text-VectorialApp26R90-13'
+                x='0'
+                y='0'
+                font-size='20px'
+                font-weight='400'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='undefined'
+                stroke-width='undefined'
+                stroke-dasharray='undefined'
+                opacity='1'
+                filter='none'
+                mask='undefined'
+                transform='matrix(1 0 0 1 -267.5 -67)'
+            >MATHRIL.COM
+                </text>
+            <text  
+                id='Text-VectorialApp26R90-14'
+                x='0'
+                y='0'
+                font-size='70px'
+                font-weight='400'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='undefined'
+                stroke-width='undefined'
+                stroke-dasharray='undefined'
+                opacity='1'
+                filter='none'
+                mask='undefined'
+                transform='matrix(1 0 0 1 -67 -185)'
+            >MY SCORE
+                </text>
+            <text  
+                id='Text-VectorialApp26R90-15'
+                x='0'
+                y='0'
+                font-size='50px'
+                font-weight='400'
+                fill='rgba(255, 0, 0, 1)'
+                stroke='undefined'
+                stroke-width='undefined'
+                stroke-dasharray='undefined'
+                opacity='1'
+                filter='none'
+                mask='undefined'
+                transform='matrix(1 0 0 1 -24.5 -103.5)'
+            >00
+                </text>
+            <text  
+                id='Text-VectorialApp26R90-16'
+                x='0'
+                y='0'
+                font-size='50px'
+                font-weight='600'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='undefined'
+                stroke-width='undefined'
+                stroke-dasharray='undefined'
+                opacity='1'
+                filter='none'
+                mask='undefined'
+                transform='matrix(1 0 0 1 39 -109.5)'
+            >:
+                </text>
+            <text  
+                id='Text-VectorialApp26R90-17'
+                x='0'
+                y='0'
+                font-size='50px'
+                font-weight='600'
+                fill='rgba(255, 255, 255, 1)'
+                stroke='undefined'
+                stroke-width='undefined'
+                stroke-dasharray='undefined'
+                opacity='1'
+                filter='none'
+                mask='undefined'
+                transform='matrix(1 0 0 1 120 -103.5)'
+            >.
+                </text>
+            <text  
+                id='Text-VectorialApp26R90-18'
+                x='0'
+                y='0'
+                font-size='50px'
+                font-weight='400'
+                fill='rgba(255, 0, 0, 1)'
+                stroke='undefined'
+                stroke-width='undefined'
+                stroke-dasharray='undefined'
+                opacity='1'
+                filter='none'
+                mask='undefined'
+                transform='matrix(1 0 0 1 60.5 -103.5)'
+            >00
+                </text>
+            <text  
+                id='Text-VectorialApp26R90-19'
+                x='0'
+                y='0'
+                font-size='50px'
+                font-weight='400'
+                fill='rgba(255, 0, 0, 1)'
+                stroke='undefined'
+                stroke-width='undefined'
+                stroke-dasharray='undefined'
+                opacity='1'
+                filter='none'
+                mask='undefined'
+                transform='matrix(1 0 0 1 138 -103.5)'
+            >00
+            </text>
+        </g>
+    </g>
+</svg>

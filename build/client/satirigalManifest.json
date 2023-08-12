@@ -1,0 +1,14 @@
+{
+    "background_color": "black",
+    "description": "Satires",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "/favicon.png",
+        "type": "image/png"
+      }
+    ],
+    "name": "Satirigal",
+    "short_name": "Satirigal",
+    "start_url": "./"
+}

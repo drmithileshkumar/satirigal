@@ -1,0 +1,154 @@
+@use 'sass:color';
+// Make sure SMUI's import happens first, since it specifies variables.
+
+// See https://github.com/material-components/material-components-web/tree/v14.0.0/packages/mdc-theme
+@use '@material/theme/color-palette';
+
+
+// Svelte Colors!
+@use '@material/theme/index' as theme with (
+  $primary: #ff3e00,
+  $secondary: #676778,
+  $surface: #fff,
+  $background: #fff,
+  $error: color-palette.$red-900
+);
+@use '@material/theme/theme-color';
+@use '@smui/snackbar/style' as smui-snackabar;
+// See https://github.com/material-components/material-components-web/tree/v14.0.0/packages/mdc-snackbar
+@use '@material/snackbar/mixins' as snackbar;
+@use '@material/image-list/mixins' as image-list;
+
+// Import all the styles for the classes.
+@use '@material/typography/mdc-typography';
+// The following classes become available:
+//   mdc-typography--headline1
+//   mdc-typography--headline2
+//   mdc-typography--headline3
+//   mdc-typography--headline4
+//   mdc-typography--headline5
+//   mdc-typography--headline6
+//   mdc-typography--subtitle1
+//   mdc-typography--subtitle2
+//   mdc-typography--body1
+//   mdc-typography--body2
+//   mdc-typography--caption
+//   mdc-typography--button
+//   mdc-typography--overline
+//   mdc-typography--body1
+
+// Import the mixins.
+@use '@material/typography/index' as typography;
+
+//
+// Some defaults that may be helpful to you.
+// If you just want to use these, and not the classes, you can instead just
+// @use '@material/typography/index' as typography, and your CSS file will be smaller.
+//
+html {
+  @include typography.typography('body1');
+}
+
+h1 {
+  @include typography.typography('headline1');
+  font-size: 4rem;
+  line-height: 4rem;
+}
+
+h2 {
+  @include typography.typography('headline2');
+  font-size: 3.5rem;
+  line-height: 3.5rem;
+}
+
+h3 {
+  @include typography.typography('headline3');
+  font-size: 3rem;
+  line-height: 3rem;
+}
+
+h4 {
+  @include typography.typography('headline4');
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+}
+
+h5 {
+  @include typography.typography('headline5');
+  font-size: 2rem;
+  line-height: 2rem;
+}
+
+h6 {
+  @include typography.typography('headline6');
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+
+caption {
+  @include typography.typography('caption');
+}
+
+code,
+pre {
+  font-family: 'Roboto Mono', monospace;
+}
+
+small {
+  font-size: 0.9em;
+}
+
+big {
+  font-size: 1.1em;
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+html,
+body {
+  background-color: theme.$surface;
+  color: theme.$on-surface;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: #40b3ff;
+}
+a:visited {
+  color: color.scale(#40b3ff, $lightness: -35%);
+}
+.my-image-list-masonry {
+  @include image-list.masonry-columns(5);
+  @include image-list.shape-radius(10px);
+  // max-width: 680px;
+  width: 100%;
+}
+ 
+@media (max-width: 599px) {
+  .my-image-list-masonry {
+    @include image-list.masonry-columns(3);
+  }
+}
+.mdc-snackbar.snackbarSuccess {
+  @include snackbar.fill-color(color-palette.$green-500);
+  @include snackbar.label-ink-color(
+    theme-color.accessible-ink-color(color-palette.$green-500)
+  );
+}
+ 
+.mdc-snackbar.snackbarWarning {
+  @include snackbar.fill-color(color-palette.$orange-500);
+  @include snackbar.label-ink-color(
+    theme-color.accessible-ink-color(color-palette.$orange-500)
+  );
+}
+ 
+.mdc-snackbar.snackbarError {
+  @include snackbar.fill-color(color-palette.$red-500);
+  @include snackbar.label-ink-color(
+    theme-color.accessible-ink-color(color-palette.$red-500)
+  );
+}

@@ -1,0 +1,166 @@
+{
+	"/": [
+		"src/routes/+page.js",
+		"src/routes/+layout.server.js",
+		"src/routes/+layout.server.js"
+	],
+	"/about": [
+		"src/routes/about/+page.js",
+		"src/routes/+layout.server.js"
+	],
+	"/android": [
+		"src/routes/+layout.server.js"
+	],
+	"/api/admin": [
+		"src/routes/api/admin/+server.js"
+	],
+	"/api/bannerpic": [
+		"src/routes/api/bannerpic/+server.js"
+	],
+	"/api/comment/[commentID]": [
+		"src/routes/api/comment/[commentID]/+server.js"
+	],
+	"/api/login": [
+		"src/routes/api/login/+server.js"
+	],
+	"/api/payments": [
+		"src/routes/api/payments/+server.js"
+	],
+	"/api/posts": [
+		"src/routes/api/posts/+server.js"
+	],
+	"/api/post/[postID]": [
+		"src/routes/api/post/[postID]/+server.js"
+	],
+	"/api/post/[postID]/comments": [
+		"src/routes/api/post/[postID]/comments/+server.js"
+	],
+	"/api/profilepic": [
+		"src/routes/api/profilepic/+server.js"
+	],
+	"/api/profile": [
+		"src/routes/api/profile/+server.js"
+	],
+	"/api/search": [
+		"src/routes/api/search/+server.js"
+	],
+	"/api/sendImage": [
+		"src/routes/api/sendImage/+server.js"
+	],
+	"/api/sendProfile": [
+		"src/routes/api/sendProfile/+server.js"
+	],
+	"/api/signup": [
+		"src/routes/api/signup/+server.js"
+	],
+	"/api/subscription": [
+		"src/routes/api/subscription/+server.js"
+	],
+	"/api/upload": [
+		"src/routes/api/upload/+server.js"
+	],
+	"/api/userDetail": [
+		"src/routes/api/userDetail/+server.js"
+	],
+	"/api/whatsapp": [
+		"src/routes/api/whatsapp/+server.js"
+	],
+	"/api/[publicID]": [
+		"src/routes/api/[publicID]/+server.js"
+	],
+	"/api/[publicID]/bannerpic": [
+		"src/routes/api/[publicID]/bannerpic/+server.js"
+	],
+	"/api/[publicID]/comments": [
+		"src/routes/api/[publicID]/comments/+server.js"
+	],
+	"/api/[publicID]/compose": [
+		"src/routes/api/[publicID]/compose/+server.js"
+	],
+	"/api/[publicID]/compose/comment": [
+		"src/routes/api/[publicID]/compose/comment/+server.js"
+	],
+	"/api/[publicID]/followers": [
+		"src/routes/api/[publicID]/followers/+server.js"
+	],
+	"/api/[publicID]/followings": [
+		"src/routes/api/[publicID]/followings/+server.js"
+	],
+	"/api/[publicID]/invoices": [
+		"src/routes/api/[publicID]/invoices/+server.js"
+	],
+	"/api/[publicID]/invoices/[invoiceID]": [
+		"src/routes/api/[publicID]/invoices/[invoiceID]/+server.js"
+	],
+	"/api/[publicID]/likes": [
+		"src/routes/api/[publicID]/likes/+server.js"
+	],
+	"/api/[publicID]/likes/[postID]": [
+		"src/routes/api/[publicID]/likes/[postID]/+server.js"
+	],
+	"/api/[publicID]/media": [
+		"src/routes/api/[publicID]/media/+server.js"
+	],
+	"/api/[publicID]/posts": [
+		"src/routes/api/[publicID]/posts/+server.js"
+	],
+	"/api/[publicID]/profilepic": [
+		"src/routes/api/[publicID]/profilepic/+server.js"
+	],
+	"/auth": [
+		"src/routes/auth/+page.server.js",
+		"src/routes/+layout.server.js"
+	],
+	"/comment/[commentID]": [
+		"src/routes/comment/[commentID]/+page.js",
+		"src/routes/+layout.server.js"
+	],
+	"/compose": [
+		"src/routes/+layout.server.js"
+	],
+	"/iOS": [
+		"src/routes/+layout.server.js"
+	],
+	"/legal/privacy": [
+		"src/routes/+layout.server.js"
+	],
+	"/legal/refund": [
+		"src/routes/+layout.server.js"
+	],
+	"/legal/terms": [
+		"src/routes/+layout.server.js"
+	],
+	"/post/[postID]": [
+		"src/routes/post/[postID]/+page.js",
+		"src/routes/+layout.server.js"
+	],
+	"/search": [
+		"src/routes/search/+page.js",
+		"src/routes/+layout.server.js"
+	],
+	"/settings": [
+		"src/routes/+layout.server.js"
+	],
+	"/settings/profile": [
+		"src/routes/settings/profile/+page.js",
+		"src/routes/+layout.server.js"
+	],
+	"/shipping": [
+		"src/routes/+layout.server.js"
+	],
+	"/[publicID]": [
+		"src/routes/[publicID]/+page.js",
+		"src/routes/+layout.server.js"
+	],
+	"/[publicID]/edit": [
+		"src/routes/[publicID]/edit/+page.js",
+		"src/routes/+layout.server.js"
+	],
+	"/[publicID]/edit/comment": [
+		"src/routes/[publicID]/edit/comment/+page.js",
+		"src/routes/+layout.server.js"
+	],
+	"/[...catchAll]": [
+		"src/routes/+layout.server.js"
+	]
+}

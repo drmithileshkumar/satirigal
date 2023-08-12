@@ -1,0 +1,7 @@
+.noScrollbar, .mdc-drawer__content {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+.noScrollbar::-webkit-scrollbar, .mdc-drawer__content::-webkit-scrollbar {
+    display: none;
+}

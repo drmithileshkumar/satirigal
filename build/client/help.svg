@@ -1,0 +1,55 @@
+<svg width="100%" height="100%" viewBox="50 85 350 220" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs></defs><g>
+    <g  
+        class='draggable'
+        id='Layer-VectorialApp35R51-0'
+        fill='none'
+        stroke='none'
+        stroke-width='0'
+        stroke-dasharray='none'
+        opacity='1'
+        mask='undefined'
+        filter='undefined'
+        transform='matrix(1 0 0 1 0 0)'
+    >
+                        
+    <path  
+        id='Path-VectorialApp35R51-2'
+        d='M 162,232.828125 C 162.2,228.028125 160.98518572379425,212.449950882195 163,208.828125 C 165.34750712710405,204.60825115257327 182.64291470789684,187.60354847416426 190.75,184.453125 C 196.24656688217388,182.31715224172868 235.33681102667404,180.3741076213622 241.375,177.703125 C 244.82396665782878,176.17748046561834 319,128.353125 342,118.828125'
+        fill='rgba(0, 0, 0, 0)'
+        fill-rule='evenodd'
+        stroke='rgba(0, 0, 0, 1)'
+        stroke-width='2'
+        stroke-dasharray='none'
+        stroke-linecap='butt'
+        stroke-linejoin='miter'
+        stroke-miterlimit='4'
+        opacity='1'
+        filter='none'
+        mask='none'
+        marker-start='none'
+        marker-mid='none'
+        marker-end='none'
+        transform='matrix(1 0 0 1 48.5 -25.5)'
+    />
+                        
+    <path  
+        id='Path-VectorialApp35R51-3'
+        d='M 162,232.828125 C 162.2,228.028125 160.98518572379425,212.449950882195 163,208.828125 C 165.34750712710405,204.60825115257327 182.64291470789684,187.60354847416426 190.75,184.453125 C 196.24656688217388,182.31715224172868 235.33681102667404,180.3741076213622 241.375,177.703125 C 244.82396665782878,176.17748046561834 319,128.353125 342,118.828125'
+        fill='rgba(0, 0, 0, 0)'
+        fill-rule='evenodd'
+        stroke='rgba(0, 0, 0, 1)'
+        stroke-width='2'
+        stroke-dasharray='none'
+        stroke-linecap='butt'
+        stroke-linejoin='miter'
+        stroke-miterlimit='4'
+        opacity='1'
+        filter='none'
+        mask='none'
+        marker-start='none'
+        marker-mid='none'
+        marker-end='none'
+        transform='matrix(-0.9999999999999999 5.551115123125783e-17 -5.551115123125783e-17 -0.9999999999999999 403.6921691894531 413.90625)'
+    />
+</g></g></svg>

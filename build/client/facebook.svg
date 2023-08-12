@@ -1,0 +1,51 @@
+<svg width="100%" height="100%" viewBox="-100 -50 50 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs></defs><g>
+                        <g  
+                            class='draggable'
+                            id='Layer-VectorialApp27R58-0'
+                            fill='none'
+                            stroke='none'
+                            stroke-width='0'
+                            stroke-dasharray='none'
+                            opacity='1'
+                            mask='none'
+                            filter='none'
+                            transform='matrix(1 0 0 1 0 0)'
+                        >
+                        
+                        <rect  
+                            id='Rect-VectorialApp27R58-3'
+                            x='0'
+                            y='0'
+                            width='50'
+                            height='50'
+                            rx='5'
+                            ry='5'
+                            fill='rgba(0, 122, 202, 1)'
+                            stroke='rgba(0, 0, 0, 1)'
+                            stroke-width='0'
+                            stroke-dasharray='none'
+                            opacity='1'
+                            filter='none'
+                            mask='none'
+                            transform='matrix(1 0 0 1 -100 -50)'
+                        />
+                        
+                        <text  
+                            id='Text-VectorialApp27R58-2'
+                            text-anchor="middle"
+                            x='0'
+                            y='0'
+                            font-family='Roboto, sans-serif'
+                            font-size='50px'
+                            font-weight='600'
+                            fill='rgba(255, 255, 255, 1)'
+                            stroke='undefined'
+                            stroke-width='undefined'
+                            stroke-dasharray='undefined'
+                            opacity='1'
+                            filter='none'
+                            mask='undefined'
+                            transform='matrix(1 0 0 1 -75 -0)'
+                        >f
+                            </text></g></g></svg>
